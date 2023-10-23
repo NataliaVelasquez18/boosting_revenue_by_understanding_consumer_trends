@@ -26,7 +26,7 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/improvement.png" width="680" height="550" />
 
 
-* This [Python file](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Sheins dataset](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/shopping_trends_updated.csv).
+* This [Python file](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/shopping_trends_updated.csv).
 
 * In this [Tableau Dashboard](https://public.tableau.com/app/profile/natalia.velasquez7860/viz/BoostingRevenueforShein-ImprovementOpportunity/improvement) contains the visuals created to present the findings to the executive team.
 
