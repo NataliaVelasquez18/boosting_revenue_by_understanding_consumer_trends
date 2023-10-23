@@ -1,4 +1,4 @@
-# Shein Boosts Revenue by $1.5 M By Understanding Consumer Trends
+# Shein Boosts Revenue by $6M+ By Understanding Consumer Trends
 
 ## Background
 
