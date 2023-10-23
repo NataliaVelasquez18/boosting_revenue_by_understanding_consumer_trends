@@ -1,4 +1,4 @@
-# Shein Boosts Revenue by $6M+ By Understanding Consumer Trends
+# Shein Boosts Revenue by $5M+ By Understanding Consumer Trends
 
 ## Background
 
@@ -9,7 +9,7 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 * By reducing employee count by 20% in the Summer months Shein can save $1.1 M per year
 * By removing color beige from blouses and shirts Shein can boost Review Rating by 18%
 * Providing in-store employee training in the states of New Hampshire and Georgia can bump Review Rating by 9%
-* By creating subscription targeted to our women population group Shein can increase market share by 25% and boost revenue by $5 M a year
+* By creating subscription targeted to our women population group Shein can increase market share by 25% and boost revenue by $4 M a year
 
 ## Analysis
 
@@ -17,16 +17,16 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 
 
 
-<img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png" width="680" height="550" />
+<img src= "https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/screenshots/clients2.png" width="680" height="550" />
 
 
 * **What areas in the company need improvement to boost revenue and review ratings?**
 
 
-<img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/improvement.png" width="680" height="550" />
+<img src= "https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/screenshots/improvement.png" width="680" height="550" />
 
 
-* This [Python file](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/shopping_trends_updated.csv).
+* This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
 
 * In this [Tableau Dashboard](https://public.tableau.com/app/profile/natalia.velasquez7860/viz/BoostingRevenueforShein-ImprovementOpportunity/improvement) contains the visuals created to present the findings to the executive team.
 
