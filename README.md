@@ -21,4 +21,4 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 
 
 
-https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png
+https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png
