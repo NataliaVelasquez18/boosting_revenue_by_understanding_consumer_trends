@@ -40,6 +40,6 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
   * Target woman between 27 and 58 years old
   * The subscription should be recurring every three weeks that is the most used frequency of shopping
   * There should be incentive when Paying with Debit Card and PayPal that are the most used payment methods by this population
-  * The subscription price should start at $70 dollars every three weeks.  The average amount of purchase of this segment is only $60.  We can bump it by $10.
+  * The subscription price should start at $70 dollars every three weeks.  The average amount of purchase of this segment is only $60.  We can bump it by $10
   * The shipping type offered in the subscription should be In-store pick up and Free Shipping with additional charges for the other types of shipment
   * The subscription should ideally be launched in the Fall that is the strongest season
