@@ -10,3 +10,6 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 * By removing color beige from blouses and shirts Shein can boost Review Rating by 18%
 * Providing in-store employee training in the states of New Hampshire and Georgia can bump Review Rating by 9%
 * By creating subscription targeted to our women population group Shein can increase market share by 25% and boost revenue by $5 M a year
+
+## Who are Shein Clients?
+
