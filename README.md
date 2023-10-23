@@ -13,11 +13,15 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 
 ## Who are Shein Clients?
 
+* <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png" width="650" height="550" />
+
+
+
 * The dataset [MechaCar_mpg.csv]([https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis/blob/main/MechaCar_mpg.csv]
 *
 * (https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png)) contains
 * b
-* <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png" width="650" height="550" />
+
 
 
 
