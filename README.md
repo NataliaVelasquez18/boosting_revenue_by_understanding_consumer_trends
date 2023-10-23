@@ -16,23 +16,21 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 * **Who are Shein Clients?**
 
 
-* <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png" width="680" height="550" />
+
+<img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png" width="680" height="550" />
 
 
 * **What areas in the company need improvement to boost revenue and review ratings?**
 
 
-*  <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/improvement.png" width="680" height="550" />
+<img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/improvement.png" width="680" height="550" />
 
 
 * This [Python file](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Sheins dataset](https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/shopping_trends_updated.csv).
 
 * In this [Tableau Dashboard]([https://public.tableau.com/app/profile/natalia.velasquez7860/viz/BoostingRevenueforShein-ImprovementOpportunity/improvement 'Tableau Dashboard') contains the visuals created to present the findings to the executive team.
 
+
   ## Recommendations
 
   * 
-
-
-
-
