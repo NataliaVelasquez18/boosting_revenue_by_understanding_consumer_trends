@@ -11,18 +11,18 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 * Providing in-store employee training in the states of New Hampshire and Georgia can bump Review Rating by 9%
 * By creating subscription targeted to our women population group Shein can increase market share by 25% and boost revenue by $5 M a year
 
-## Who are Shein Clients?
+## Analysis
+
+* **Who are Shein Clients?**
+
 
 * <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png" width="650" height="550" />
 
 
+* This Python file [https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/Consumer_trends_EDA_and_Visualization.ipynb] contains a complete analysis and visualization of Sheins dataset.
 
-* The dataset [MechaCar_mpg.csv]([https://github.com/NataliaVelasquez18/Car_Data_Statistical_Analysis/blob/main/MechaCar_mpg.csv]
-*
-* (https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png)) contains
-* b
+* In this Tableau Dashboard ([https://public.tableau.com/app/profile/natalia.velasquez7860/viz/BoostingRevenueforShein-ImprovementOpportunity/improvement] contains the visuals created to present the findings to the executive team.
 
-
+* **What areas in the company need improvement to boost revenue and ratings?**
 
 
-https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients2.png
