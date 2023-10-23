@@ -17,7 +17,7 @@ Shein, a clothing brand, is using analytics to design the strategy and planing f
 *
 * (https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png)) contains
 * b
-* <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png" width="450" height="350" />
+* <img src= "https://github.com/NataliaVelasquez18/boosting_revenue_by_understanding_consumer_trends/blob/main/screenshots/clients.png" width="750" height="450" />
 
 
 
